@@ -1,4 +1,4 @@
-# ESP8266 HomeKit Server for lightbulb remote control
+# ESP8266 HomeKit Server for socket remote control
 
 ## Usage
 
